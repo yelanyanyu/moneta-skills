@@ -50,7 +50,7 @@ Macbeth 的 fear 就在这一下里。野心是真的，他听见“将来为王
 
 所以 fear 可以慢下来。它能跟着人回到屋里，坐在桌边，等他把每一种后果想完。一个人 fear fire，是因为火会烧；fear deep water，是因为水会吞；fear a man coming through the door，是因为那个人一旦进来，某件事就要开始。fear 不一定催人马上逃开，它常常让人盯着那个对象，反复想它会怎样靠近。
 
-[[panic]] 更像对象还没清楚出现，身体已经先乱了。`panic` 的场景里，雾、鸟群和莫名声响先让人退开；fear 这里不一样，Macbeth 已经知道自己怕的是什么，只是那件事还没有发生。[[terror]] 如果以后要细分，可能更接近被巨大力量压住时的僵直；fear 还保留着思考、等待和回避的余地。它让人看见危险，也让人一遍遍看见自己可能怎样走向危险。
+[[panic]] 更像恐惧对象还没清楚出现，身形已经先乱了。`panic` 的场景里，雾、鸟群和莫名声响都作为一种未知迹象令人恐惧；fear 这里不一样，Macbeth 已经知道自己怕的是什么，只是那件事还没有发生。[[terror]] 可能更接近被巨大力量，比如死亡、审判临近时的颤栗；fear 还保留着思考、等待和回避的余地。它让人看见危险，也让人一遍遍看见自己可能怎样走向危险。
 
 [^macbeth-1-3]: [Open Source Shakespeare, "Macbeth", Act 1, Scene 3](https://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=macbeth&Act=1&Scene=3&Scope=scene).
 
