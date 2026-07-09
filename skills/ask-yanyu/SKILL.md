@@ -12,7 +12,7 @@ description: 当用户想使用、选择、改进或质疑 Moneta 的单词解�
 - 要解析词组：使用 `/phrase-disclosure`。如果这个 skill 还不存在，先建议创建它。
 - 要做写作审查：使用 `/write-review`。如果这个 skill 还不存在，先建议创建它。
 - 用户指出内容怪、不自然、AI 味、翻译腔：使用 `/moneta-critique`。
-- 用户确认某个问题应当成为长期规则：使用 `/moneta-skills-improver`。
+- 用户确认某个问题应当成为长期规则：使用 `/moneta-skills-improver`。它可以改 `skills/<skill-name>/SKILL.md` 和 `skills/<skill-name>/references/*.md`，例如 `skills/word-disclosure/references/ERROR_INDEX.md`、`STYLE.md`、`CORRECTIONS.md`、`SOURCES.md`。
 - 用户说纠错样本太长、重复、需要压缩：使用 `/moneta-skills-improver`。
 - Moneta skills 已经改进完：提醒用户 commit；需要同步到其他环境时提醒 push。
 

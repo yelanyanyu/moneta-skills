@@ -7,6 +7,16 @@ description: 当用户已经确认 Moneta 的风格规则、纠错压缩方案�
 
 改进 Moneta skills，不把内部细节交给用户。
 
+## 影响范围
+
+这个 skill 的工作对象是本仓库的 Moneta skills 文件和 reference 文件。可以修改：
+
+- 目标技能入口文件：`skills/<skill-name>/SKILL.md`，例如 `skills/word-disclosure/SKILL.md`、`skills/moneta-critique/SKILL.md`、`skills/ask-yanyu/SKILL.md`。
+- 目标技能参考文件：`skills/<skill-name>/references/*.md`，例如 `skills/word-disclosure/references/ERROR_INDEX.md`、`STYLE.md`、`CORRECTIONS.md`、`SOURCES.md`。
+- 当反馈影响入口路由时，可以修改 `skills/ask-yanyu/SKILL.md`；当反馈影响改进流程本身时，可以修改 `skills/moneta-skills-improver/SKILL.md`。
+
+不要把普通文章个案直接扩展成全局规则；先看目标技能的错误索引和现有纠错类型。
+
 先把用户确认过的反馈分成四类：旧规则的新例子、当前文章个案、重复样本、新规则。分类时优先归入已有问题类型；不要因为一个坏句多了一个表面特征，就新建规则。
 
 新增规则的门槛要高。只有当问题足够典型、可能反复出现，并且现有规则或纠错样本确实覆盖不了时，才创建新规则。否则，把它写进已有错误类型的例子、修改方案或当前文章个案里。

@@ -5,7 +5,7 @@ description: 为英语单词生成或更新 `word/` 目录下的 Obsidian Markdo
 
 # Word Disclosure
 
-当用户要解析英语单词或生成 Obsidian 笔记时，先读 [STYLE.md](references/STYLE.md)、[CORRECTIONS.md](references/CORRECTIONS.md)，需要找来源时读 [SOURCES.md](references/SOURCES.md)；输出 `word/{lemma}.md`，流程是确认词形、找可验证来源、读旧笔记、写中文正文、按参考文件自检后保存。
+当用户要解析英语单词或生成 Obsidian 笔记时，先读错误索引 [ERROR_INDEX.md](references/ERROR_INDEX.md)、[STYLE.md](references/STYLE.md)、[CORRECTIONS.md](references/CORRECTIONS.md)，需要找来源时读 [SOURCES.md](references/SOURCES.md)；输出 `word/{lemma}.md`，流程是确认词形、找可验证来源、读旧笔记、写中文正文、按参考文件自检后保存。
 
 ## 输出约定
 
@@ -46,7 +46,7 @@ updated: "2026-07-05"
 6. 检查常用搭配和相邻词。遇到 `a cascade of` 这类高频词组，或 lemma 的故事可能接近“落下”“序列”“连续发生”等中文义时，要和相邻表达做克制辨析，例如 `a series of`、`sequence`、`chain`、`drop`、`fall`、`descent`。已有笔记先读；没有笔记时，只写一句到一小段，说明差异落在哪个动作、路径或人物反应上。近义词辨析里，英语词是读者正在辨认的对象，要直接出现并优先用 Obsidian 双链，不要写成“中文（[[word]]）”。完成标准：读者知道为什么这里用 lemma，而不是用相近词或中文近义表达。
 7. 写双链时，让链接词参与句子意思的构建。不要把双链当索引。完成标准：每个双链删掉以后，原句的意思会变薄。
 8. 处理词源。词源仅仅作为参考，不是必须遵守的教条；当词源解释变成机械的词根直译时，可以温和反驳。词源分析必须能追到可信词典、语源资料或原始文本；找不到时，不要写成确定事实，直接说“暂未找到可验证资料”。完成标准：正文没有被字面词源牵着走，也没有把无来源的词源推测写实。
-9. 保存前按 [STYLE.md](references/STYLE.md) 和 [CORRECTIONS.md](references/CORRECTIONS.md) 自检；自检错误类型必须和 CORRECTIONS.md 的标题对齐，方便直接检索样本。完成标准：正文没有明显 AI 味，没有凭空出现的比喻，没有抽象近义词辨析。
+9. 保存前按错误索引 [ERROR_INDEX.md](references/ERROR_INDEX.md)、[STYLE.md](references/STYLE.md) 和 [CORRECTIONS.md](references/CORRECTIONS.md) 自检；自检错误类型必须和 CORRECTIONS.md 的标题对齐，方便直接检索样本。完成标准：正文没有明显 AI 味，没有凭空出现的比喻，没有抽象近义词辨析。
 10. 保存笔记。完成标准：文件是有效的 Obsidian Markdown，properties 完整，正文可以连续读下去。
 
 ## 正文走向
