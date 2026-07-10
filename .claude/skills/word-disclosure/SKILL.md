@@ -42,7 +42,7 @@ updated: "2026-07-05"
 ## 工作流程
 
 1. 确认 lemma、词性、常用义和目标文件 `word/{lemma}.md`。
-2. 按 [SOURCES.md](references/SOURCES.md) 找主要显义来源、最早来源、引文和词源依据。
+2. 按 [SOURCES.md](references/SOURCES.md) 先查词源路线，再根据来源词反查文化场景、主要显义来源、最早来源和引文。
 3. 读现有 lemma 笔记；需要比较的双链词已有笔记时也读。
 4. 起草正文：用故事或诗歌揭示 lemma 诞生的世界；古典、神话、宗教、非现代英语场景按 [STYLE.md](references/STYLE.md) 做本土文化微调。
 5. 写词源和意义演变；误用、音译、借用、讹传或跨语言转写要写成来历，不硬解释成稳定词根。
