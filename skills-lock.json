@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "ask-yanyu": {
+      "source": "git@github.com:yelanyanyu/moneta-skills.git",
+      "sourceType": "git",
+      "skillPath": "skills/ask-yanyu/SKILL.md",
+      "computedHash": "8629409cdb5c49b59e19c9806ed3df6451c3634b33d08d1c2e6f03085f30f73e"
+    },
+    "moneta-critique": {
+      "source": "git@github.com:yelanyanyu/moneta-skills.git",
+      "sourceType": "git",
+      "skillPath": "skills/moneta-critique/SKILL.md",
+      "computedHash": "879dd815b1618357766d010304b58e3372c88cfaef87868ac6e72c510a99905b"
+    },
+    "moneta-skills-improver": {
+      "source": "git@github.com:yelanyanyu/moneta-skills.git",
+      "sourceType": "git",
+      "skillPath": "skills/moneta-skills-improver/SKILL.md",
+      "computedHash": "293995cb18503ccaf1c27965077a86ef325fc0bfe9b6f9013417f78fd00f5417"
+    },
+    "prose-critique-zh": {
+      "source": "git@github.com:yelanyanyu/moneta-skills.git",
+      "sourceType": "git",
+      "skillPath": "skills/prose-critique-zh/SKILL.md",
+      "computedHash": "c5b788aedbacf56e6b0d31b5428dd14fcc99c5019f06f2cc12c7b5ba99d240c8"
+    },
+    "setup-moneta-skills": {
+      "source": "git@github.com:yelanyanyu/moneta-skills.git",
+      "sourceType": "git",
+      "skillPath": "skills/setup-moneta-skills/SKILL.md",
+      "computedHash": "a1d03ca79e8c9d96d2393ed28ac95912d76ddac3889e61c09648036ce79936b8"
+    },
+    "word-disclosure": {
+      "source": "git@github.com:yelanyanyu/moneta-skills.git",
+      "sourceType": "git",
+      "skillPath": "skills/word-disclosure/SKILL.md",
+      "computedHash": "0aecd8a6caa3b568e45ce1de33b74dda7445c8017219320278c83844a3bf6509"
+    }
+  }
+}
