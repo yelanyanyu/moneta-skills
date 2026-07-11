@@ -47,7 +47,7 @@ updated: "2026-07-05"
 4. 起草正文：用故事或诗歌揭示 lemma 诞生的世界；古典、神话、宗教、非现代英语场景按 [STYLE.md](references/STYLE.md) 做本土文化微调。
 5. 写词源和意义演变；误用、音译、借用、讹传或跨语言转写要写成来历，不硬解释成稳定词根。
 6. 检查中文释义、常用搭配、近义词和双链；中文译法要用例子说明凭什么成立，差异落在动作、路径或人物反应上。
-7. 保存前完整读取 [ERROR\_INDEX.md](references/ERROR_INDEX.md)，按索引从第一条到最后一条逐项对照正文。命中或拿不准时，再查 [CORRECTIONS.md](references/CORRECTIONS.md) 的对应样本自检。
+7. 保存前完整读取 [ERROR\_INDEX.md](references/ERROR_INDEX.md)，按索引从第一条到最后一条逐项对照正文。命中或拿不准时，再使用 grep 类工具查 [CORRECTIONS.md](references/CORRECTIONS.md) 的对应样本自检，不必全部加入上下文。
 8. 保存笔记并汇报路径、主要来源、最早来源、引用和词源是否可验证。
 
 ## 细则位置
