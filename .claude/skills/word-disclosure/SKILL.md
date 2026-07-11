@@ -7,7 +7,7 @@ description: 为英语单词生成或更新 `word/` 目录下的 Obsidian Markdo
 
 当用户要解析英语单词或生成 Obsidian 笔记时，输出 `word/{lemma}.md`。
 
-开始前读 [ERROR\_INDEX.md](references/ERROR_INDEX.md)、[STYLE.md](references/STYLE.md)、[CORRECTIONS.md](references/CORRECTIONS.md)。
+开始前完整读取 [ERROR\_INDEX.md](references/ERROR_INDEX.md)、[STYLE.md](references/STYLE.md)、[CORRECTIONS.md](references/CORRECTIONS.md)。
 需要找来源时读 [SOURCES.md](references/SOURCES.md)。主流程只保留执行骨架，细则按需回到 reference。
 
 ## 输出约定
@@ -47,14 +47,14 @@ updated: "2026-07-05"
 4. 起草正文：用故事或诗歌揭示 lemma 诞生的世界；古典、神话、宗教、非现代英语场景按 [STYLE.md](references/STYLE.md) 做本土文化微调。
 5. 写词源和意义演变；误用、音译、借用、讹传或跨语言转写要写成来历，不硬解释成稳定词根。
 6. 检查中文释义、常用搭配、近义词和双链；中文译法要用例子说明凭什么成立，差异落在动作、路径或人物反应上。
-7. 保存前先用 [ERROR\_INDEX.md](references/ERROR_INDEX.md) 定位错误类型，再查 [CORRECTIONS.md](references/CORRECTIONS.md) 的对应样本自检。
+7. 保存前完整读取 [ERROR\_INDEX.md](references/ERROR_INDEX.md)，按索引从第一条到最后一条逐项对照正文。命中或拿不准时，再查 [CORRECTIONS.md](references/CORRECTIONS.md) 的对应样本自检。
 8. 保存笔记并汇报路径、主要来源、最早来源、引用和词源是否可验证。
 
 ## 细则位置
 
 - 来源、引文、脚注、最早来源和词源查证：读 [SOURCES.md](references/SOURCES.md)。
 - 正文语感、中国化改写、近义词、词源处理和 Obsidian 形态：读 [STYLE.md](references/STYLE.md)。
-- 自检时先读 [ERROR\_INDEX.md](references/ERROR_INDEX.md)，再按索引去 [CORRECTIONS.md](references/CORRECTIONS.md) 查完整坏例和改法。
+- 自检时先完整读 [ERROR\_INDEX.md](references/ERROR_INDEX.md)，逐项问“这个错误是否出现在正文里”。命中或拿不准时，再按索引去 [CORRECTIONS.md](references/CORRECTIONS.md) 查完整坏例和改法。
 
 ## 正文走向
 
