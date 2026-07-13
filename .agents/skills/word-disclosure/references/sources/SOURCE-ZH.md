@@ -11,6 +11,7 @@
 - 《集韵》
 - 汉典
 - 维基词典
+- 上古漢語字典查詢：https://qwert-ly.github.io/xtext/
 
 ## 古籍与全文检索
 
