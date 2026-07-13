@@ -21,7 +21,7 @@ A Moneta skill that creates Obsidian Markdown notes explaining English words or 
 _Avoid_: vocabulary prompt, word generator
 
 **First-Class Disclosure Language**:
-A language that `word-disclosure` supports as a primary lemma language with its own note directory, source profile, and output conventions. The initial first-class disclosure languages are English, German, and Chinese.
+A language that `word-disclosure` supports as a primary entry language with its own note directory, source profile, and output conventions. The initial first-class disclosure languages are English, German, and Chinese.
 _Avoid_: supported language, target language
 
 **Source Language Profile**:
@@ -29,8 +29,16 @@ A compact reference file that lists dictionaries, corpora, literary sources, and
 _Avoid_: source file, language sources
 
 **Source Index**:
-The shared `SOURCES.md` router for disclosure work. It identifies the lemma language, points to the relevant source language profiles, and keeps cross-language search strategy brief enough that individual profiles do not become workflow documents.
+The shared `SOURCES.md` router for disclosure work. It identifies the entry language, points to the relevant source language profiles, and keeps cross-language search strategy brief enough that individual profiles do not become workflow documents.
 _Avoid_: source profile, source file
+
+**Disclosure Analysis Profile**:
+A compact reference file that describes how to analyze an entry after sources are found for one language family, script tradition, or philological tradition. Analysis profiles ask language-specific questions; they do not replace source profiles.
+_Avoid_: source profile, language method dump
+
+**Philological Path**:
+The interpretive route that best fits an entry, such as etymological lineage, character exegesis, allusion, institutional usage, translation-term history, or compound structure. A philological path is chosen per entry instead of assuming every language should follow Indo-European root analysis.
+_Avoid_: universal etymology method, word root path
 
 **Auxiliary Source Language**:
 A language consulted for etymology, historical background, or source-text verification without being a primary note language. Latin, Ancient Greek, and French can be auxiliary source languages even when the generated note is English, German, or Chinese.
