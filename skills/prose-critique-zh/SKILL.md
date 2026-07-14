@@ -5,13 +5,13 @@ description: 审阅和改写普通中文文章、日常文本、散文、文学�
 
 # Prose Critique Zh
 
-审改中文文本时，先读 `references/ERROR_INDEX.md`，再按命中的错误类型读取 `references/CORRECTIONS.md` 中的对应样本。
+审改中文文本时，先读 `references/ERROR_INDEX.md`，再按命中的错误类型用文本搜索工具检索 `references/CORRECTIONS.md` 中的对应样本；不要把 `CORRECTIONS.md` 全量加入上下文。
 
 ## Workflow
 
 1. 判断文本类型：日常表达、散文叙事、评论说明、文学艺术文本。保留原文本的用途和语气，不把所有文本都改成同一种“干净文风”。
 2. 用 `ERROR_INDEX.md` 找AI味类型。优先识别句式、动作、意象、文气和口号感；不要机械套所有规则。
-3. 用 `CORRECTIONS.md` 对照同类样本。只读相关错误类型，不整篇搬运。
+3. 用文本搜索工具在 `CORRECTIONS.md` 中定位同类样本。只打开命中的错误类型和相邻例子，不整篇读取或搬运。
 4. 如果用户要“审稿”或“哪里怪”，先指出最影响阅读的一两处，再给改法。
 5. 如果用户要“直接改”，给出改写后的正文；必要时在正文后用一两句话说明关键改动。
 
