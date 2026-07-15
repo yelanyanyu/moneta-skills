@@ -11,7 +11,6 @@
 - DWDS-Korpus
 
 ## 德语原文与公版文本
-
 - Deutsches Textarchiv
 - Projekt Gutenberg-DE
 - Wikisource-DE
