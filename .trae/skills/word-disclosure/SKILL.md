@@ -9,11 +9,11 @@ description: 为印欧语或汉语生成或更新 `word/<language>/` 目录下�
 
 ## 工作流程
 
-1. 确认词目、一等语言和目标文件。
-2. 读取 [FORMAT.md](references/FORMAT.md)、[SOURCES.md](references/SOURCES.md)、[ANALYSIS.md](references/ANALYSIS.md)、[STYLE.md](references/STYLE.md)、[ERROR_INDEX.md](references/ERROR_INDEX.md)。
+1. 确认词语、一等语言和目标文件。
+2. 读取 [FORMAT.md](references/FORMAT.md)、[SOURCES.md](references/SOURCES.md)、[ANALYSIS.md](references/ANALYSIS.md)、[STYLE.md](references/STYLE.md)。
 3. 查来源，读现有笔记和需要比较的双链笔记。
 4. 起草并保存正文。
-5. 按 [ERROR_INDEX.md](references/ERROR_INDEX.md) 逐项自检；命中或拿不准时，再查 [CORRECTIONS.md](references/CORRECTIONS.md)。
+5. 按 [ERROR_INDEX.md](references/ERROR_INDEX.md) 逐项自检；命中或拿不准时，再查 （而不是全部读入）[CORRECTIONS.md](references/CORRECTIONS.md)。
 6. 汇报路径、主要来源、最早来源、引用和词源是否可验证。
 
 ## 边界
