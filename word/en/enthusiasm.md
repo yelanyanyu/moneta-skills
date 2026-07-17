@@ -32,11 +32,9 @@ updated: "2026-07-17"
 
 苏格拉底把能够学习、说明和反复操练的 *technē* 与磁石传来的神力分开。*Study with enthusiasm* 让二者相伴。*Study* 是阅读、记忆、推理和练习的工夫；[[with]] 说的是我在做这些事时与神同在，受到神的指引。**Enthusiasm** 是这份指引：它使所学之物持续吸引我，让我保持兴趣，愿意在难句前停下来，回头再读，继续追问。
 
-磁石与铁环彼此相连，力量却有明确的来向：磁石吸引，铁环受到吸引。*With* 保留了这种同在和引导；英语通常也用它表示与行动相伴的事物，或者行动表现出来的方式。[^with]
+磁石与铁环彼此相连，力量却有明确的来向：磁石吸引，铁环受到吸引。*With* 保留了这种同在和引导。学习者没有独自面对书本；神的指引与他同行，使他在难句前停留、回读和追问。[^with]
 
-**Enthusiasm** 内部的希腊语 *en-* 确实有“在……之中”的意思：神在人之中，人受到神的感发。若说 *study in enthusiasm*，[[in]] 会把重点放在学习者所处的状态，仿佛学习发生在热情之中。*With* 说的是神的指引与我同行；*in* 说的是我正处于怎样的情绪或处境。这里用 *with*，正是因为这份指引伴随并引导着学习。[^in]
-
-*In her enthusiasm, she studied through the night* 仍然可以成立。这里的 *in* 先交代她处于兴奋之中，彻夜学习是这个状态里的行为。*She studied with enthusiasm* 则说这份兴趣始终伴随着她的阅读、停顿和追问；若沿着古义往回看，就是神的指引始终与她同在。*Enthusiasm for study* 用 *for* 指出吸引朝向什么；*study enthusiastically* 直接写学习表现出来的方式；*study with enthusiasm* 保留了学习与这份指引相伴的关系。
+*In her enthusiasm, she studied through the night* 中的 **enthusiasm** 道出她当时的处境。她彻夜学习，所学之物牵引着她，她愿意把整个夜晚交给学习；她怎样度过这一夜，已经说明了她的 **enthusiasm**。这里的 [[in]] 要贴着她的生存处境来读。*Study with enthusiasm* 则在神性的基础上使用 **enthusiasm**，以 *with* 写学习者与神共在。两个 **enthusiasm** 写法相同，在这两句话里意义不同。[^in]
 
 感发本身通常不可数：*She showed great enthusiasm.* 当 **enthusiasm** 指反复吸引一个人的项目时才可以数：*Music and astronomy are her two great enthusiasms.*
 
