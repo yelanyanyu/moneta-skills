@@ -30,11 +30,11 @@ updated: "2026-07-17"
 
 磁石始终是力量的来源。铁环先受它吸引，继而获得牵引下一只铁环的力量；伊翁听见荷马便清醒过来，滔滔不绝。**Enthusiasm** 保留着这种受神感发的关系：神吸引人，也使某件事不断牵动他的兴趣。
 
-苏格拉底把能够学习、说明和反复操练的 *technē* 与磁石传来的神力分开。*Study with enthusiasm* 让二者相伴。*Study* 是阅读、记忆、推理和练习的工夫；[[with]] 说的是我在做这些事时与神同在，受到神的指引。**Enthusiasm** 是这份指引：它使所学之物持续吸引我，让我保持兴趣，愿意在难句前停下来，回头再读，继续追问。
+苏格拉底把能够学习、说明和反复操练的 *technē* 与磁石传来的神力分开。*Study with enthusiasm* 让二者相伴。*Study* 是阅读、记忆、推理和练习的工夫；[[with]] 说的是我在做这些事时与神同在，受到神的指引。**Enthusiasm** 的神性就在于：它使所学之物持续吸引我，让我保持兴趣，愿意在难句前停下来，回头再读，继续追问。
 
 磁石与铁环彼此相连，力量却有明确的来向：磁石吸引，铁环受到吸引。*With* 保留了这种同在和引导。学习者没有独自面对书本；神的指引与他同行，使他在难句前停留、回读和追问。[^with]
 
-*In her enthusiasm, she studied through the night* 中的 **enthusiasm** 道出她当时的处境。她彻夜学习，所学之物牵引着她，她愿意把整个夜晚交给学习；她怎样度过这一夜，已经说明了她的 **enthusiasm**。这里的 [[in]] 要贴着她的生存处境来读。*Study with enthusiasm* 则在神性的基础上使用 **enthusiasm**，以 *with* 写学习者与神共在。两个 **enthusiasm** 写法相同，在这两句话里意义不同。[^in]
+*In her enthusiasm, she studied through the night* 中的 **enthusiasm** 先抽象的道出了她当时的处境。随后：她彻夜学习，所学之物牵引着她，她愿意把整个夜晚交给学习。她是怎样度过这一夜的使得她的 **enthusiasm** 更加具体。这里的 [[in]] 要贴着她的生存处境来读。*Study with enthusiasm* 则在神性的基础上使用 **enthusiasm**，以 *with* 写学习者与神共在。两个 **enthusiasm** 写法相同，在这两句话里意义不同。[^in]
 
 [^ion]: Plato, *Ion* 533d–e。古希腊语原文见 [Centre for the Greek Language](https://www.greek-language.gr/digitalResources/ancient_greek/anthology/literature/browse.html?text_id=313)，译文据原文自译。上下文中，伊翁只能畅谈荷马；苏格拉底因而把他的表现归于神力和感发，而非一套普遍的诗艺知识。
 [^etym]: [Merriam-Webster](https://www.merriam-webster.com/dictionary/enthusiasm) 将英语最早可知用例记于 1595 年，并把词追溯至希腊语 *enthousiasmos*：“受神感发或被神占据”；[Oxford Advanced Learner’s Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/enthusiasm) 也记录了希腊语、晚期拉丁语或法语的传入路线。现代常用义是强烈的兴奋、兴趣与参与愿望。
