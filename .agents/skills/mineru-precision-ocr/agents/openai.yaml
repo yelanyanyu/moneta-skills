@@ -1,6 +1,6 @@
 interface:
   display_name: "MinerU 精准 PDF 解析"
-  short_description: "显式指定 PDF 后自动切分并提交 MinerU 精准解析"
+  short_description: "检查 MinerU MCP 后切分、解析并合并指定 PDF"
   default_prompt: "Use $mineru-precision-ocr to precisely parse the PDF file I explicitly specify."
 
 dependencies:

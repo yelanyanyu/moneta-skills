@@ -36,8 +36,6 @@ updated: "2026-07-17"
 
 *In her enthusiasm, she studied through the night* 中的 **enthusiasm** 道出她当时的处境。她彻夜学习，所学之物牵引着她，她愿意把整个夜晚交给学习；她怎样度过这一夜，已经说明了她的 **enthusiasm**。这里的 [[in]] 要贴着她的生存处境来读。*Study with enthusiasm* 则在神性的基础上使用 **enthusiasm**，以 *with* 写学习者与神共在。两个 **enthusiasm** 写法相同，在这两句话里意义不同。[^in]
 
-感发本身通常不可数：*She showed great enthusiasm.* 当 **enthusiasm** 指反复吸引一个人的项目时才可以数：*Music and astronomy are her two great enthusiasms.*
-
 [^ion]: Plato, *Ion* 533d–e。古希腊语原文见 [Centre for the Greek Language](https://www.greek-language.gr/digitalResources/ancient_greek/anthology/literature/browse.html?text_id=313)，译文据原文自译。上下文中，伊翁只能畅谈荷马；苏格拉底因而把他的表现归于神力和感发，而非一套普遍的诗艺知识。
 [^etym]: [Merriam-Webster](https://www.merriam-webster.com/dictionary/enthusiasm) 将英语最早可知用例记于 1595 年，并把词追溯至希腊语 *enthousiasmos*：“受神感发或被神占据”；[Oxford Advanced Learner’s Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/enthusiasm) 也记录了希腊语、晚期拉丁语或法语的传入路线。现代常用义是强烈的兴奋、兴趣与参与愿望。
 [^with]: [Oxford Advanced Learner’s Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/with) 分别记录 *with* 的“在某人或某物陪伴、在场之中”和“表示某人做事的方式”两种用法；[Merriam-Webster](https://www.merriam-webster.com/dictionary/with) 还把后者表述为行动的方式或伴随事实、伴随情况。
