@@ -37,5 +37,6 @@ npx skills@latest add yelanyanyu/moneta-skills
 维护者本地开发可以用 `scripts/list-skills.sh` 检查技能清单。`scripts/link-skills.sh` 只用于维护者把当前 checkout 软链接进本机 agent skills 目录，不是用户安装方式。
 
 ## Status
+基本完成了对汉语、英语、德语的词语解析。
 
 当前项目还有 `phrase-disclosure` 和 `write-review`，因为 `/setup-moneta-skills` 待开发。现在的计划主要是完善单个单词的解析。欢迎语言学、哲学专业的研究者或者一线教师参与贡献。
