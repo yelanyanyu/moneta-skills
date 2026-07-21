@@ -1,16 +1,14 @@
 # Moneta Skills
 
-Moneta Skills 是一组面向中文学习者的 agent skills，用来生成、质疑和改进英语词语解析笔记。
-
-这些 skills 不依赖 Ad Fontes Manager 桌面应用。它们把单词解析结果保存为 Obsidian Markdown，并用文学或艺术作品帮助读者进入词义。
+Moneta Skills 是一组面向语言学习者和教师的 agent skills，用来生成、质疑和改进各个语言词语解析 markdown 笔记。让你按照自己喜欢的方式来逐渐改进单词的解析。
 
 ## Skills
 
 Bundled skills live under `skills/<skill-name>/SKILL.md`.
 
-- `/ask-yanyu`：选择下一步。首次使用、生成单词笔记、质疑怪句、改进 skills 都从这里开始。
+- `/ask-yanyu`：路由 skills。选择下一步。首次使用、生成单词笔记、质疑、改进都从这里开始。
 - `/setup-moneta-skills`：初始化一个项目里的 Moneta 工作区。
-- `/word-disclosure`：生成或更新 `word/` 目录下的英语单词 Obsidian Markdown 笔记。
+- `/word-disclosure`：生成或更新 `word/` 目录下的所有单词 markdown 笔记。
 - `/moneta-critique`：当用户觉得某段内容怪、不自然、AI 味重时，把问题追问成可确认的修改规则。
 - `/moneta-skills-improver`：把确认后的反馈反哺到 Moneta skills，并维护纠错样本。
 
@@ -30,7 +28,7 @@ Bundled skills live under `skills/<skill-name>/SKILL.md`.
 
 ## Install
 
-发布到 skills.sh 后，预期安装方式为：
+该 skills 可以通过以下命令安装，需要安装 npm：
 
 ```bash
 npx skills@latest add yelanyanyu/moneta-skills
@@ -40,4 +38,4 @@ npx skills@latest add yelanyanyu/moneta-skills
 
 ## Status
 
-当前优先把仓库结构对齐 skills.sh 发布形态。发布前还需要补齐 `phrase-disclosure` 和 `write-review`，因为 `/setup-moneta-skills` 已经把它们视为必需的 bundled skills。
+当前项目还有 `phrase-disclosure` 和 `write-review`，因为 `/setup-moneta-skills` 待开发。现在的计划主要是完善单个单词的解析。欢迎语言学、哲学专业的研究者或者一线教师参与贡献。
