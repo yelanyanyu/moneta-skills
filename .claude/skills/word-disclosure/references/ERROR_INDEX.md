@@ -1,6 +1,6 @@
 # Word Disclosure Error Index
 
-这个文件是错误索引，不是 Moneta skills 入口。入口路由由 `ask-yanyu` 负责。`` 中的是具体的错误类型，你需要根据错误类型在 [CORRECTIONS.md](CORRECTIONS.md) 中查找对应的修正。
+该文件是语言错误索引，用于查找文本中的 AI 味问题。`` 中的是具体的错误类型，你需要根据错误类型在 [CORRECTIONS.md](CORRECTIONS.md) 中查找对应的修正。
 
 ## 句式问题
 
