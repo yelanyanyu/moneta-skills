@@ -12,10 +12,10 @@ description: 为任意语言生成或更新 `word/<language>/` 目录下的 Obsi
 1. 确认词语、一等语言和目标文件；读取现有笔记和需要比较的双链笔记。
 2. 读取 [ANALYSIS.md](references/ANALYSIS.md)，再按其中的路由只读取当前语言的分析文件。确定当前词语的主要语文学路径后，才进入下一步。
 3. 读取 [SOURCES.md](references/SOURCES.md)，再按其中的路由只读取当前语言的来源文件。只有实际涉及辅助语言时，才读取对应的辅助来源。搜集并核验词源或字形、早期书证、候选作品、主要作品的完整上下文、必要译文及近义词比较所需材料；主要来源和正文走向确定后，才进入下一步。
-4. 读取 [FORMAT.md](references/FORMAT.md)，整理 properties 和正文所需材料，此时不要起草正文。若作品原文、来源依据或比较材料仍有缺口，回到上一步补齐。
-5. 信息搜集完成后，准备阶段最后读取 [STYLE.md](references/STYLE.md)。它是按目标语言加载范文的索引：把当前语言项的双链解析为 `word/<language>/<entry>.md` 并读取。
+4. 读取 [FORMAT.md](references/FORMAT.md)，整理 properties 和正文所需材料，此时不要起草正文。若作品原文、来源依据或比较材料仍不足，则回到上一步。
+5. 信息搜集完成后，准备阶段最后读取 [STYLE.md](references/STYLE.md)，模仿范文文风。
 6. 根据已经搜集的材料、格式要求和对应语言范文，起草并保存正文。
-7. 草稿完成后，按 [ERROR_INDEX.md](references/ERROR_INDEX.md) 逐项自检。只有命中具体错误类型或拿不准时，才读取 [CORRECTIONS.md](references/CORRECTIONS.md) 中对应的小节。
+7. 草稿完成后，按 [ERROR_INDEX.md](references/ERROR_INDEX.md) 逐项自检。只有命中具体错误类型或不确定时，才读取 [CORRECTIONS.md](references/CORRECTIONS.md) 中对应的小节。
 8. 汇报路径、主要来源、最早来源、引用和词源是否可验证。
 
 ## 边界
