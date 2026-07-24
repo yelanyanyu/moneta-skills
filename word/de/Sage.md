@@ -1,5 +1,5 @@
 ---
-lemma: "Sage"
+entry: "Sage"
 language: "de"
 part_of_speech: "noun"
 aliases:
@@ -13,12 +13,13 @@ revelatory_sources:
   primary: "Das Wort"
   candidates:
     - "Das Wort"
-earliest_source: "ahd. saga (9. Jh.)"
-created: "2026-07-15"
-updated: "2026-07-15"
+    - "Die Kinder zu Hameln"
+earliest_source: "althochdeutsch saga (Glossen, 1. Viertel 9. Jh.)"
+created: "2026-07-23"
+updated: "2026-07-23"
 ---
 
-Stefan George 的诗《Das Wort》收在他生前最后一部诗集《Das Neue Reich》（1928）里。全诗六节十二行，很短，先读原文。
+施特凡·格奥尔格的《词语》收入他晚年的诗集《新王国》。全诗很短，先读原文：[^george]
 
 > Wunder von ferne oder traum
 > Bracht ich an meines landes saum
@@ -36,56 +37,60 @@ Stefan George 的诗《Das Wort》收在他生前最后一部诗集《Das Neue R
 >
 > So lernt ich traurig den verzicht:
 > Kein ding sei wo das wort gebricht.
-
-> 远方的奇观，或是梦，
-> 我带到故土边缘，
-> 守候，直到灰发的诺伦
-> 从泉底寻到它的名字——
-> 于是我能紧紧握住它，
-> 它便开遍疆土，闪闪发光……
 >
-> 有一回，远行归来我带回
-> 一件名贵而细巧的珍宝，
-> 她找了很久，然后告诉我：
-> "这深底之下什么也没有睡着。"
-> 它随即从我手中滑走，
-> 故乡再也没能赢得这份珍藏……
+> ---
 >
-> 我于是哀伤地学会了放弃：
-> 话不在的地方，就没有物。
+> 远方的奇迹，或梦中之物，
+> 我带到自己国土的边缘，
+> 守候着，直到灰发的诺恩
+> 从她的井中寻得名字——
+> 于是我才能将它牢牢握住，
+> 如今它遍及疆土，开花闪耀……
+>
+> 有一回，我顺利远行归来，
+> 带着一件丰美而纤巧的珍宝。
+> 她寻了许久，向我告知：
+> “这幽深之处，没有什么沉睡。”
+> 于是珍宝从我手中逸去，
+> 我的国土再未得到它……
+>
+> 我便悲伤地学会了放弃：
+> 词语匮缺之处，无物存在。
 
-诗里一个漫游者从远方带回奇观或珍宝，带到故土的边界，等着一位灰发的诺伦——北欧神话里掌管命运的女神——从泉底找出东西的名字。名字一到，东西就能被握住、扎下根、在疆土上开花发光。可有一回，他带回一件珍宝，诺伦在泉底找了很久，什么也没找到。珍宝从手中滑走了，再也回不来。
+人们很容易把这一幕按熟悉的次序排好：宝物早已完整地存在，词语随后赶到，为它贴上一个便于辨认的名字。诗中，宝物却随着名字一同进入故土。名字来到，它才在土地上绽放；名字缺席，诗人连“拥有它”也无从谈起。词语与事物在同一次到来中获得形貌，来到人的近处。
 
-这个名字，让物抵达的"话"，就是 Sage 在做的事情。
+Sage 要从这里听见。这个词与 sagen 相连；而 sagen 的古老方向又通向 zeigen：让……显现。海德格尔把这层牵连写得很紧：“Das Wesende der Sprache ist die Sage als die Zeige.”——语言之为语言，在于作为显示的 Sage。[^heidegger] 远方的珍宝、井中的名字、等待的诗人和承接它们的土地在这场显示中一同显露。它发生于相遇本身，早于人拿起一件现成之物指给别人看的动作。
 
-Sage 是阴性名词。在现代德语里，Sage 通常指"传说、传奇"——格林兄弟收集的 Deutsche Sagen、地方上流传的古老故事、被反复讲述却没法证明的事情。可是从字面上看，Sage 也正是动词 sagen（说）的名词形式。为什么一个"说"，会变成一种"传说"？[^dwds]
+珍宝可以出现，词语可以被听见，诗人可以开口；Sage 发生在它们彼此相遇之中。若把这场相遇列作其中另一件看不见的东西，它便已经受到遮蔽。诗人在井边等待，名字来到，他才应声而说。海德格尔称这种人的言说为 nachsagen：跟随那已经向人显示的东西，把它继续说出来。[^heidegger]
 
-古高地德语 saga（九世纪）到中古高地德语 sage，意思要宽得多：说话、被说出的话、陈述、传闻、报告。[^dwds-etym] 它和北欧的 saga（萨迦、叙事）、古英语 sagu 和英语 saw（旧谚、格言）都从同一个日耳曼词根来，再往前推，是印欧语的 *sekʷ-（说）。[^kluge] 换句话说，Sage 本来不是一种文体，它先是一个动作的结果——话被说出去以后留下来的东西。
+显示也把退隐带到人面前。第二件宝物从手里滑落，词语的匮缺由此变得可感。它以离去的方式触及诗人，使他知道有些东西尚未进入可说的土地。Sage 容许来到，也容许不来；词语的丰饶、词语的匮缺和随之而来的沉默都在其中发生。
 
-Sage 的意思收窄是后来发生的事。DWDS 的词源说明讲得很清楚：从"说话、被说出的话、陈述"这个宽泛含义出发，Sage 逐步收拢到"通过口头传承保留下来的民间叙事"，到了十九世纪——尤其是格林兄弟编《德国传说》以后——专指"一种有历史锚点、无法被证明但又包含高度真实诉求的叙事"。[^dwds-etym]
+古高地德语 saga 至迟见于九世纪第一季度的词汇材料，可以对应叙事、话语、陈说、意见、消息等多种意思。[^koebler] 词典用 Gesagtes——“被说出的东西”——说明它与 sagen 的构词联系。这条材料只保留了词的来路。若把 Gesagtes 理解成话说完以后遗留下来的一件成品，Sage 就被压成了可保存、可搬运的话件。格奥尔格的诗让我们经历另一层发生：说出的东西能够留下，是因为某物已经在言说中向人显现。
 
-格林兄弟在《德国传说》第一卷的前言里，把 Märchen（童话）、Sage（传说）和 Geschichte（历史）放在一起比，说它们三个像"并排站着，一个接一个地把往昔像一个鲜活精神一样带到人面前"。童话更自由，历史更严格，传说夹在中间——传说总缠着具体的地方、具体的人名、某一道墙或某一棵老树。你不能证明它，可你也不能说它完全是编的。它是一条路，从确凿的历史通向不可考的记忆。[^grimm]
+现代德语常用 Sage 指“传说”：它经过口头流传，常依附于某个地方、人物或往事，细节未必能够证实。[^duden] 《哈默尔恩的孩子们》让这项现代用法回到一座城的具体经验中。
 
-Sage 的这个收窄让很多中文读者觉得它就是"传说"或"传奇"。这两个译法都有自己的道理。传说（[[legend]]）强调它在人群中被反复传递，在传递中变形，又一直没有完全离开它最初拴住的那块地方。传奇更偏向情节的奇异。但它们都只抓住了 Sage 后来变成的样子，没有把这个词动作的一面带出来。
+格林兄弟记下《哈默尔恩的孩子们》时，保留了彼此不一的说法。有人说两个孩子落在后面，一个失明，一个失语；有人说失踪的孩子穿过山洞，在遥远的地方重新出现。吹笛人的衣着、归来的时辰和孩子的去向都在变化。[^hameln] 每次有人重新说起，哈默尔恩的街道便显出一处失去孩子的地方，山丘显出一道无法追随的去路，婚礼乐队经过那条街时的沉默也显出一座城仍在承受的往事。传说没有把一件固定内容原封不动地递给后来人。它让地方一次次带着自己的缺口来到后来人面前。
 
-漫游者把珍宝带到边界，灰发的诺伦低下头，在泉底找名字。名字被找到以前，珍宝还在他手里，可他还不知道那是什么，也还没有办法把它放进自己的世界。名字一到，东西才真正到了：有名字，东西才能在疆土上开花发光。命名这件事，从词源上说就是 Sage 的原义——把话说出去，东西才有了可以被人辨认、传递、争论或记住的样子。George 的诗把过程放慢，让人看见名字没有发生时会怎样：珍宝滑走，没有任何人、任何地方能再留住它。
+Sage 的不同版本显出了一件共同的事：没有哪一版能把孩子的离去彻底说尽。每一版都让某些东西显现，也让另一些东西退入沉默。格林兄弟所谓 Sage 对地点和历史的依附，正发生在这种反复的说与听之中。[^grimm]
 
-海德格尔在五十年代写的《语言的本质》（收在《走向语言之途》里）拿这首诗人手，追问的恰好是 Sage。他读这首诗，读到最后一行的"话"，把它推进了一步。他说：Der Dichter erfährt den verzicht — der Dichter lernt, auf das Wort zu verzichten? Nein. Er lernt den verzicht als das, was das Wort gewährt. 诗人经历的放弃，不是放弃词语；而是放弃那种以为人能把持住词语的念头。真正的 Sage 不归人说——它是"无声地呼召着的聚集"，让世界的种种关系、"是"与物之所以"是"的道路，自己显露出来。[^heidegger]
+[[Rede]] 更容易指一场由人展开的话语：有人开口，有人听，话在一个场合中延续。[[Aussage]] 则把显现出来的东西确定为一句可以判断的陈述，例如“孩子在 1284 年失踪”。一次言说能够开始，一句陈述能够有所指，已经因为某物先向说者与听者显了出来。Rede 和 Aussage 各自接住这场显示的一种形态；Sage 仍在具体的说、听与显露中发生。
 
-海德格尔后来又写过一段更干净的话，直接接上了 Sage 和 zeigen（显示）的关系。他说，Sage 的意思不是人说话，也不是论述或宣告，而是 zeigen：让什么显现，让什么被看见。在日耳曼语里，sagen 原本就是 zeigen。古挪威语的 segja 同时有"说"和"显示"的意思。海德格尔说："Die Sage ist die Zeige。"Sage 就是这显现。[^heidegger-sage]
+在普通德语里，eine Sage 仍应自然地译作“一则传说”，der Sage nach 则是“据传”。读到海德格尔对语言的追问时，“传说”容易让人只想到故事门类，译者因而常用“道说”来保留 Sage 的发生意味。这里的“道”提醒我们：说为事物开出一条来到近处的路，说者自己也行走在这条路上。
 
-这番话把 Sage 里沉睡的那个古老动作重新唤醒。一个人说话，是从嘴里发出声音，也是把一件东西带到别人面前，让它被看见。"传说"和"传奇"这些译法收了 Sage 的流传面，失掉了这个"让显现"的姿态。反过来，如果只译成"说"或"言说"，又会丢掉 Sage 在日耳曼语里累积下来的漫长传递感——一件事被一说再说，一代一代传，最后变成一片土地上人人都知道的故事。
+[^george]: 原文参照 Stefan George, [*Das Wort*](https://www.gedichte.eu/71/george/das-neue-reich/das-wort.php)，收入 1928 年出版的诗集 *Das neue Reich*；中文为本文译文。
 
-Sage 是动词 sagen 的延伸——说出口，让显现。它也是名词——那段说过以后留下来、传下去的话。同一个动作，走到了两个不同的地方：说出口以后，话被传开，传久了就成了传说；每一次传说被人重新讲起的时候，Sage 又活回来，它又变成了那一下说。
+[^heidegger]: 参照 Martin Heidegger, *Unterwegs zur Sprache*, “Der Weg zur Sprache”，尤其是 [GA 12, S. 242](https://www.beyng.com/pages/de/GA12/GA12.242.html) 对 Sage、Sagen 与 Zeigen 的追问，以及 [GA 12, S. 254](https://www.beyng.com/pages/de/GA12/GA12.254.html) 对人之 nachsagen 的说明。正文的“道说”用于提示这一语境，不把它当作 Sage 在所有场合中的固定中译。
 
-[^dwds]: 现代义参照 DWDS, „Sage", https://www.dwds.de/wb/Sage. 通用解释为"口头传承的、大多有历史内核且常掺入超自然元素的叙事".
+[^koebler]: 早期词形、年代和义项参照 Gerhard Köbler, [*Althochdeutsches Wörterbuch*, “saga (2)”](https://www.koeblergerhard.de/germanistischewoerterbuecher/althochdeutscheswoerterbuch/ahdS.pdf)。该条把材料标作 Glossen（1. Viertel 9. Jh.），并列 Erzählung、Rede、Aussage、Darlegung、Meinung、Gerede、Rechenschaft、Kunde 等释义。这里以它作为目前可核验的早期词汇材料，不断言已经找到绝对最早的一句原文。
 
-[^dwds-etym]: 词源和词义沿革参照 DWDS, „Sage" in: Etymologisches Wörterbuch des Deutschen, https://www.dwds.de/wb/etymwb/Sage. 原文说明古高地德语 saga（九世纪）到中古高地德语 sage 的含义范围，以及十九世纪以后词义收窄的过程.
+[^duden]: 现代“传说”义及词形沿革参照 Duden, [“Sage”](https://www.duden.de/rechtschreibung/Sage)。Duden 上溯中古高地德语 sage、古高地德语 saga，并以 Gesagtes 说明构词关系；正文把这项词典材料当作历史线索，而非对 Sage 存在方式的裁定。
 
-[^kluge]: 英语同源词参照 Friedrich Kluge, *An Etymological Dictionary of the German Language*, trans. John Francis Davis, s.v. "Sage" 和 "sagen", https://en.wikisource.org/wiki/An_Etymological_Dictionary_of_the_German_Language/S-Sch_%28full_text%29. sage 与拉丁语 īnseque、inquit、古希腊语 ἔννεπε 等同源，追溯到印欧语词根 *sekʷ-.
+[^hameln]: 传说的不同说法参照 Brüder Grimm, [*Die Kinder zu Hameln*](https://de.wikisource.org/wiki/Die_Kinder_zu_Hameln)，收于 *Deutsche Sagen*, Band 1, 1816, Nr. 244, S. 330–333。
 
-[^grimm]: Jacob und Wilhelm Grimm, *Deutsche Sagen*, Vorrede zum ersten Band, „Wesen der Sage"（1816）, https://de.wikisource.org/wiki/Deutsche_Sagen_(Br%C3%BCder_Grimm,_Band_1). 原文描述 Märchen、Sage 和 Geschichte 的关系，以及 Sage 与具体地点、人物和事物的联系.
+[^grimm]: Sage 与地点、历史的关系参照 Brüder Grimm, [*Deutsche Sagen*, Band 1, Vorrede: “Wesen der Sage”](https://de.wikisource.org/wiki/Seite:Deutsche_Sagen_(Grimm)_V1_005.jpg), 1816, S. V–X。
 
-[^heidegger]: Martin Heidegger, „Das Wesen der Sprache", in: *Unterwegs zur Sprache*, Pfullingen: Neske, 1959 (GA 12), S. 157–216. 此处引用分析 George 诗作《Das Wort》的相关段落.
+读到这里，让解释退后一步。再回到诗人手中那件无名而滑落的珍宝，听词语的缺席怎样触到事物的存在：
 
-[^heidegger-sage]: Martin Heidegger, „Der Weg zur Sprache", in: *Unterwegs zur Sprache*, GA 12, S. 241: "Das Wesende der Sprache ist die Sage als die Zeige." 另参照同一文本中关于古北欧语 segja 兼有"说"与"显示"义的讨论.
+> Kein ding sei wo das wort gebricht.
+>
+> 词语不到之处，无物得以成其为物。
