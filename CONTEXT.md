@@ -47,3 +47,23 @@ _Avoid_: secondary language, helper language
 **Chinese Disclosure Coverage**:
 The Chinese first-class disclosure language covers single characters, Classical Chinese words, and modern Chinese words. `SOURCE-ZH` must support all three instead of treating Chinese as only modern vocabulary.
 _Avoid_: modern Chinese only
+
+**Saying-Oriented Interpretation**:
+An internal stance in which a word lets historical relations appear rather than transporting a fixed meaning from a subject, while attested usage keeps interpretation from becoming free association.
+_Avoid_: Heideggerian decoration, unconstrained poetic association
+
+**Split Absorption**:
+A research-evaluation method that separates reusable evidence practices from a paper's theory of language, then marks each contribution as directly adoptable, requiring translation, or rejected.
+_Avoid_: wholesale acceptance, position-based exclusion
+
+**Present Occurrence**:
+The concrete showing, withholding, listening, and response happening in a text or speech situation now under interpretation. It is not the philosophical category of `Wirklichkeit` and does not mean an isolated, history-free present.
+_Avoid_: present-day usage, current dictionary meaning, actuality as an object
+
+**Evental History**:
+History understood as a present and future-opening event in which a way of letting beings appear is granted while other possibilities withdraw. It differs from chronological historiography and from a complete inventory of inherited meanings.
+_Avoid_: historical background, timeline, total history
+
+**Present-Triggered Retrospection**:
+A retrieval discipline that begins with a concrete saying event and recalls only the historical traces that can clarify, resist, or alter its interpretation. Historical research stops when additional material no longer changes the live interpretive alternatives.
+_Avoid_: history-first interpretation, exhaustive source accumulation, history-free close reading
