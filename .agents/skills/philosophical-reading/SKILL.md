@@ -1,7 +1,7 @@
 ---
 
 name: philosophical-reading
-description: 将哲学章节或段落重构为流畅、以问题为导向的阅读指南，使读者能够跟随作者的思想运动。
+description: 将哲学章节或段落重构为流畅、以问题为导向的思想道路，使读者能够跟随作者的思想运动。
 argument-hint: "粘贴一个哲学章节或段落。"
 disable-model-invocation: true
 ---
